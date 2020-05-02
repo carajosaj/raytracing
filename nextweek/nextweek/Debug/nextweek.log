@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(nextweek.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  raytracing.cpp
+D:\code\visual\nextweek\nextweek\nextweek\perlin.h(43,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\visual\nextweek\nextweek\nextweek\perlin.h(44,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\visual\nextweek\nextweek\nextweek\perlin.h(45,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\visual\nextweek\nextweek\nextweek\texture.h(68,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\visual\nextweek\nextweek\nextweek\texture.h(69,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  nextweek.vcxproj -> D:\code\visual\nextweek\nextweek\Debug\RayTracing.exe
